@@ -1,0 +1,23 @@
+{
+  "name": "zipcode_distance",
+  "version": "1.0.0",
+  "description": "Finds the distance between two zipcodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asrayg/zipcode_distance.git"
+  },
+  "keywords": [
+    "zipcode",
+    "distance"
+  ],
+  "author": "Asray Gopa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asrayg/zipcode_distance/issues"
+  },
+  "homepage": "https://github.com/asrayg/zipcode_distance#readme"
+}
